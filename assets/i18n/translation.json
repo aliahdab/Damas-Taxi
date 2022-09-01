@@ -1,0 +1,11 @@
+{
+  "home": {
+    "ridBtn" : "Get a rid",
+    "foodBtn" : "Order food",
+    "whereFrom" : "Where from?",
+    "whereTo" : "Where to?"
+  },
+  "map": {
+    "origin" : "origin"
+  }
+}

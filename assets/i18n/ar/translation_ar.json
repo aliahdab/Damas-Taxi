@@ -1,0 +1,15 @@
+{
+  "home": {
+    "ridBtn" : "اطلب توصيلة",
+    "foodBtn" : "اطلب طعام",
+    "whereFrom" : "من أين ؟",
+    "whereTo" : " إلى أين ؟"
+  },
+  "map": {
+    "origin" : "المصدر",
+    "destination" : "الوجهة"
+  },
+  "navigationCard" : {
+    "whereTo": "إلى أين ؟"
+  }
+}

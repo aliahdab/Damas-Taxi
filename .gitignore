@@ -10,7 +10,9 @@ npm-debug.*
 *.orig.*
 .env
 .idea
+.env.development
 yarn.lock
+yarn-error.log
 web-build/
 
 # macOS
